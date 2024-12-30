@@ -251,12 +251,12 @@ function hideOverlay() {
   document.querySelector('.overlay').style.display = 'none';
 }
 
-// Start new order logic
 newOrderBtn.addEventListener('click', () => {
-  let response = confirm('Are you sure to start new order ?')
+  let response = confirm('Are you sure to start new order?');
   if (response) {
-    location.href = '/'
+    location.href = '/Product-list-with-cart/'; // Correct path for GitHub Pages
   } else {
-    alert('Whoa!! You have changed your mood!!')
+    alert('Whoa!! You have changed your mood!!');
   }
-})
+});
+
