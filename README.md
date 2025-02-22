@@ -8,4 +8,4 @@ A responsive product listing page with cart functionality, built as a practice p
 - Quantity adjustment in cart  
 
 ## Live Demo  
-🔗 [View Project](https://amitkumar1590.github.io/Product-list-with-cart/)
+🔗 [View Project](https://amitfrontend.github.io/Product-list-with-cart/)
